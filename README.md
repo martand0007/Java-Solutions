@@ -36,6 +36,7 @@ This repository contains my Java programming and Data Structures & Algorithms pr
 
 ### Sorting
 - Bubble Sort
+- Selection Sort
 
 ### Recursion
 - Factorial
